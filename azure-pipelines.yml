@@ -8,7 +8,7 @@ trigger:
 
 pool:
 #  vmImage: 'ubuntu-latest'
-  name:  azseababa013htest
+  name: essilor-amera-buildagent
 
 steps:
 - task: NodeTool@0
